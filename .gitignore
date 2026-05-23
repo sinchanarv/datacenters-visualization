@@ -1,0 +1,4 @@
+*.gdb/
+__pycache__/
+venv/
+Aqueduct40_waterrisk_download_Y2023M07D05/
